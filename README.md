@@ -25,7 +25,7 @@
 <br />
 
 
-O **Projeto PetShop Store** é um projeto **educacional** desenvolvido em **TypeScript**, com foco em **Programação Orientada a Objetos (POO)** e **arquitetura modular**, simulando operações como **CRUD de Produtos, Medicamentos e Cosméticos** 
+O **Projeto Farmácia** é um projeto **educacional** desenvolvido em **TypeScript**, com foco em **Programação Orientada a Objetos (POO)** e **arquitetura modular**, simulando operações como **CRUD de Produtos, Medicamentos e Cosméticos** 
 
 
 **Objetivo:** Demonstrar **organização, domínio técnico, modelagem de domínio e boas práticas de engenharia de software** em um case prático de portfólio.
